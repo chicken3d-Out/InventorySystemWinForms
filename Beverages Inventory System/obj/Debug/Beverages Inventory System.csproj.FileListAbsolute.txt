@@ -1,0 +1,42 @@
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\Beverages Inventory System.exe.config
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\Beverages Inventory System.exe
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\Beverages Inventory System.pdb
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\MySql.Data.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\System.Memory.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\System.Buffers.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\MySql.Data.xml
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages Inventory System.exe.config
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.Dashboard.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.Properties.Resources.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages Inventory System.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages Inventory System.csproj.CopyComplete
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages Inventory System.exe
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages Inventory System.pdb
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.Login.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.OverviewSection.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.LogSection.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.PriceSection.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.ProductOverview.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.SupplierSection.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.NewStock.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.AddStock.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.ReleaseStock.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.NewProduct.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.EditProduct.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.EditPrice.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.NewPrice.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.EditSupplier.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages_Inventory_System.NewSupplier.resources
+C:\Users\HP\source\repos\Beverages Inventory System\Beverages Inventory System\obj\Debug\Beverages Inventory System.csprojAssemblyReference.cache
